@@ -1,3 +1,3 @@
-# Reproduction prompt
+# 復現提示詞
 
-Create a 5-second 1920×1080 Remotion product-demo clip at 30fps. Show a desktop browser dashboard with a “查看明細” action in the lower-right of a project list. From frame 30 to 72, smoothly zoom from 1× to 1.52× with the transform origin on that action. Hold the zoom until frame 100, then return to 1× by frame 130. The browser window should stay sharp and keep its rounded container clipping intact. Use a calm ease-out curve, warm cream background, white UI, blue accents, and navy text. Do not add shakes, bounce, blur, or a centre-origin zoom.
+建立一支 5 秒、1920×1080、30fps 的 Remotion 產品導覽影片。顯示一個桌面瀏覽器儀表板，專案清單右下角有「查看明細」操作。第 30–72 格，請以該操作為 transform origin，平順從 1× 放大至 1.52×。停留至第 100 格，接著在第 130 格前回到 1×。瀏覽器視窗必須保持銳利，並維持圓角容器的裁切。採用平靜的 ease-out 曲線、暖米色背景、白色 UI、藍色重點與海軍藍文字；不可加入抖動、彈跳、模糊或以畫面中心為原點的縮放。

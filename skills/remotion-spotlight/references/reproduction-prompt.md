@@ -1,3 +1,3 @@
-# Reproduction prompt
+# 復現提示詞
 
-Create a 5-second 1920×1080 Remotion product-demo clip at 30fps. Place a project dashboard inside a desktop browser window with three status cards: 待確認 12, 採購中 08, 已完成 24. Darken the UI outside a rounded-rectangle spotlight by about 58%. From frames 24–52, hold the cutout precisely over the first card; from frames 52–76 glide it to the second; from frames 76–104 glide it to the third. The cutout must remain aligned to the cards, approximately their width and height, and must never finish over the blank area below the dashboard. Use warm cream, white, blue, and navy styling; no modal or opaque white overlay.
+建立一支 5 秒、1920×1080、30fps 的 Remotion 產品導覽影片。於桌面瀏覽器視窗內放置一個專案儀表板，包含三張狀態卡：待確認 12、採購中 08、已完成 24。將圓角矩形聚光燈以外的 UI 壓暗約 58%。第 24–52 格時，挖空區須精準停在第一張卡；第 52–76 格平順移至第二張；第 76–104 格平順移至第三張。挖空區必須與卡片對齊，寬高約等於卡片，且絕不可停在儀表板下方的空白區。使用暖米色、白色、藍色與海軍藍配色；不可出現彈窗或不透明白色覆蓋層。

@@ -1,3 +1,3 @@
-# Reproduction prompt
+# 復現提示詞
 
-Create a 5-second 1920×1080 Remotion product-demo clip at 30fps. Begin with a clean white browser dashboard. From frame 35 to 58, cross-dissolve it away. Starting at frame 50, fade in a dark navy chapter-card background. Draw an 80px pale-blue horizontal line from frames 58–86. From frames 75–98, lift in a small “STEP 02” label and the title “開始採購流程”, rising 24px while fading in. Use a composed editorial rhythm, centered layout, and no hard cut, fast flash, or exaggerated scale bounce.
+建立一支 5 秒、1920×1080、30fps 的 Remotion 產品導覽影片。開頭顯示乾淨的白色瀏覽器儀表板；第 35–58 格將它交叉淡化離場。從第 50 格開始，淡入深海軍藍的章節卡背景。第 58–86 格繪製一條 80px 的淺藍色水平線。第 75–98 格，讓小型「STEP 02」標籤與「開始採購流程」標題各自淡入並向上移動 24px。維持沉穩、有編輯感的節奏與置中排版；不可使用硬切、快速閃白或誇張的縮放彈跳。

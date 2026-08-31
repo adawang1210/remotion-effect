@@ -1,3 +1,3 @@
-# Reproduction prompt
+# 復現提示詞
 
-Create a 5-second 1920×1080 Remotion product-demo clip at 30fps. Show a clean desktop browser window with a project dashboard. From frame 25 to 76, move a white arrow cursor smoothly from the lower-right toward the “查看明細” action. At frame 78, compress the cursor to 85% for 5 frames, restore it by frame 89, and animate a blue click ring from 0.4× to 2.2× while its opacity fades to zero by frame 100. Keep the UI readable, use a warm off-white page background and dark navy type, and avoid camera motion or unrelated visual effects.
+建立一支 5 秒、1920×1080、30fps 的 Remotion 產品導覽影片。畫面為乾淨的桌面瀏覽器專案儀表板。從第 25 格到第 76 格，讓白色箭頭游標從右下方平順移向「查看明細」操作。第 78 格時將游標縮小至 85%，維持 5 格；於第 89 格前回復原尺寸。同時讓藍色點擊圓環從 0.4× 擴大至 2.2×，並在第 100 格前淡出至透明。保持 UI 可讀性，使用暖白頁面背景與深海軍藍文字，避免鏡頭移動或無關的視覺效果。
