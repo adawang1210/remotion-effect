@@ -1,0 +1,3 @@
+# Reproduction prompt
+
+Create a 5-second 1920×1080 Remotion product-demo clip at 30fps. Place a project dashboard inside a desktop browser window with three status cards: 待確認 12, 採購中 08, 已完成 24. Darken the UI outside a rounded-rectangle spotlight by about 58%. From frames 24–52, hold the cutout precisely over the first card; from frames 52–76 glide it to the second; from frames 76–104 glide it to the third. The cutout must remain aligned to the cards, approximately their width and height, and must never finish over the blank area below the dashboard. Use warm cream, white, blue, and navy styling; no modal or opaque white overlay.
