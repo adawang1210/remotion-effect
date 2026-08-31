@@ -13,4 +13,4 @@ Use this effect to make a static hold or interface recording read as an intentio
 - Pair the visual click with one short click SFX only if the project includes audio. Align its transient to the visual click.
 - Keep the pointer over the recording layer and below explanatory annotations. Do not use it where a real captured pointer is already clear.
 
-For a copy-ready production brief, read [the reproduction prompt](references/reproduction-prompt.md).
+First inspect the [reference animation](../../previews/cursor-click.gif), then follow [the reproduction prompt](references/reproduction-prompt.md). Treat the reference's motion beats—not its dashboard copy or colours—as the requirement.

@@ -13,4 +13,4 @@ Use a short zoom only when it improves legibility or makes an interaction’s co
 - Zoom the source at its decode/layout size when possible to avoid softening a raster recording through repeated CSS scaling.
 - If an overlay follows the UI, derive its coordinates from the same scale and origin.
 
-For a copy-ready production brief, read [the reproduction prompt](references/reproduction-prompt.md).
+First inspect the [reference animation](../../previews/punch-in.gif), then follow [the reproduction prompt](references/reproduction-prompt.md). Treat the reference's motion beats—not its dashboard copy or colours—as the requirement.

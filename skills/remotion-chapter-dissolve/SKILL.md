@@ -12,4 +12,4 @@ Use this treatment when the viewer is changing mental tasks, not between every s
 - Keep the title readable and the layout still. This is a pause for orientation, not an attention-grabbing title sequence.
 - A light whoosh may peak when the divider becomes readable; do not use a transition sound for routine UI clicks.
 
-For a copy-ready production brief, read [the reproduction prompt](references/reproduction-prompt.md).
+First inspect the [reference animation](../../previews/chapter-dissolve.gif), then follow [the reproduction prompt](references/reproduction-prompt.md). Treat the reference's motion beats—not its dashboard copy or colours—as the requirement.
